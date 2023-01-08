@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi! Nice to see you 👋
+
+I'm Heejin Do, currently studying natural language processing(NLP) in POSTECH.
+
+My current research interest is on Automated Essay Scoring(AES) and Automated Pronunciation Assessment(APA).
+
+### My archiving blog :tulip:
+[https://doheejin.github.io/](https://doheejin.github.io/)
 
 <!--
 **doheejin/doheejin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
