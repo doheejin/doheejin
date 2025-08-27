@@ -1,8 +1,8 @@
 ### Hi! Nice to see you 👋
 
-I'm Heejin Do, currently studying natural language processing(NLP) in POSTECH.
+I'm Heejin Do, currently working as a postdoctoral fellow at the ETH AI Center.
 
-My current research interest is on Automated Essay Scoring(AES) and Automated Pronunciation Assessment(APA).
+I study how AI can better understand and support learning 💡
 
 ### My archiving blog :tulip:
 [https://doheejin.github.io/](https://doheejin.github.io/)
